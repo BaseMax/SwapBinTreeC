@@ -56,3 +56,5 @@ printf("Swapped Tree: ");
 printTree(root);
 printf("\n");
 ```
+
+Copyright (c) 2023, Max Base

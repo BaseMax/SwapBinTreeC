@@ -11,7 +11,6 @@ struct Node
     struct Node *right;
 };
 
-
 /**
  * @brief Create a new node
  * 
